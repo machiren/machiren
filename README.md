@@ -1,7 +1,9 @@
 ## 👋 SNS 
 
 [![Linkedin Badge](https://img.shields.io/badge/-machiren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/連-町田-05a75518b/)](https://www.linkedin.com/in/連-町田-05a75518b/)
+[![Twitter Badge](https://img.shields.io/badge/-machiren-5595F0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/machiren111/)](https://twitter.com/machiren111)
 [![Instagram Badge](https://img.shields.io/badge/-machiren-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ren_machida/)](https://instagram.com/ren_machida)
+
 
 ## ⚡ Technologies
 

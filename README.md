@@ -14,6 +14,8 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-BC1410?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Antd](https://img.shields.io/badge/-AntDesign-red?style=flat-square&logo=ant-design)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
